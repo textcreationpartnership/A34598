@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Set on the great pot a sermon upon hospitality / preach'd at a late visitation at Turnbridge in Kent on 2 Kings IV. 38 by H.C.</title>
+            <author>H. C. (Henry Cornwallis), 1654?-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34598</idno>
+            <idno type="STC">Wing C6334</idno>
+            <idno type="STC">ESTC R28413</idno>
+            <idno type="EEBO-CITATION">10590406</idno>
+            <idno type="OCLC">ocm 10590406</idno>
+            <idno type="VID">45301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1380:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Set on the great pot a sermon upon hospitality / preach'd at a late visitation at Turnbridge in Kent on 2 Kings IV. 38 by H.C.</title>
+                  <author>H. C. (Henry Cornwallis), 1654?-1710.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Sons of the Prophets,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Kings, 2nd, IV, 38 --  Sermons.</term>
+               <term>Visitation sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45301:1"/>
+            <pb facs="tcp:45301:1" rendition="simple:additions"/>
+            <p>Set on the Great Pot.</p>
+            <p>A SERMON UPON <hi>Hoſpitality,</hi> Preach'd at a late Viſitation at <hi>Tunbridg</hi> in <hi>Kent,</hi> On 2 <hi>KINGS</hi> IV. 38.</p>
+            <p>By <hi>H. C.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Sons of the Prophets. MDCXCIV.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45301:2"/>
+            <pb n="iii" facs="tcp:45301:2"/>
+            <head>To the Worſhipful JOHN CORNWALLEYS, OF <hi>WINGFEILD,</hi> 
+               <abbr>Eſq</abbr> One of their Majeſties Juſtices of the Peace, and Deputy-Lieute<g ref="char:EOLhyphen"/>nant of the County of <hi>Suffolk</hi>; And the Moſt Virtuous <hi>Grace</hi> his Wife, The Author wiſheth all Happineſs here, and Eternal Glory hereafter.</head>
+            <p>
+               <hi>I</hi> Read in the Holy Writ, that when St. <hi>Paul</hi> had refreſhed himſelf at the Houſe of <hi>Oneſiphorus,</hi> he expreſſed his Thankfulneſs to him in this Prayer, <hi>The Lord have Mercy on the Houſe of
+<pb n="iv" facs="tcp:45301:3"/>
+Oneſiphorus:</hi> and not being content with that ſingle Prayer, he publiſhes another in his Behalf, <hi>God grant that he may find Mercy at the laſt Day.</hi> He re<g ref="char:EOLhyphen"/>membred him in his Prayers, and pub<g ref="char:EOLhyphen"/>lickly acknowledged his Hoſpitality in most of his Epiſtles. In the like manner, I that have often refreſhed my ſelf at your Table, and have there been an Eye<g ref="char:EOLhyphen"/>witneſs of your Hoſpitality to others, what can I do leſs for your free and ge<g ref="char:EOLhyphen"/>nerous Entertainments, than become your Orator to God by my Prayers; your He<g ref="char:EOLhyphen"/>rald to the World, by dedicating this Sermon of Hoſpitality to you, to ſhew to the World I am none of thoſe ungrateful Wretches that can receive a Kindneſs, and immediately forget it.</p>
+            <closer>
+               <signed>Yours, <hi>H. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:45301:3"/>
+            <epigraph>
+               <q>
+                  <bibl>2 KINGS IV. 38.</bibl>
+                  <p>—And he ſaid to his Servant, Set on the great Pot, and ſeethe Pottage for the Sons of the Prophets.</p>
+               </q>
+            </epigraph>
+            <p>PErhaps the Repaſt that I am now about to deliver unto you may be thought too groſs for ſome nicer Palates, and the Text now read too light and airy for ſo Reverend and Learned an Auditory: but if any think ſo, I ſhall not apolo<g ref="char:EOLhyphen"/>gize for my Text as long as I find it within the Verge of the Bible, and a Portion of Holy Writ: Neither ſhall I matter any that diſguſt the Entertain<g ref="char:EOLhyphen"/>ment, ſince 'tis the ſame that the Pro<g ref="char:EOLhyphen"/>phet <hi>Eliſhah</hi> affords his Gueſts, and they Sons of the Prophets, and Clergy-men too; and will you diſdain what they ac<g ref="char:EOLhyphen"/>cepted of?</p>
+            <p>
+               <pb n="6" facs="tcp:45301:4"/>I ſhall not here ſtand upon criticizing, and tell you how the Words are in the Original, and read you the meaning in the Arabick, Chaldaic, and Syriac: this would argue much Vanity in me; and to you it would be ſuperfluous, and bode no better than caſting of Wa<g ref="char:EOLhyphen"/>ter into the Sea.</p>
+            <p>Neither ſhall I ſtand upon the literal Meaning of the Words, which every Cook better than my ſelf knows; but my Deſign is to extract ſomething ſpi<g ref="char:EOLhyphen"/>ritual from this corporal Viand, and preſent you with ſome Food for your Soul from this of the Body.</p>
+            <p>The Words expreſs <hi>Eliſha</hi>'s Hoſpita<g ref="char:EOLhyphen"/>lity and frank Diſpoſition to the Sons of the Prophets, and may afford us this uſeful Theorem.</p>
+            <p>
+               <hi>That a kind and liberal Reception, nei<g ref="char:EOLhyphen"/>ther niggardly ſordid, nor extrava<g ref="char:EOLhyphen"/>gantly profuſe, firſt became the Sons of the Prophets.</hi>
+            </p>
+            <p>Or elſe take the Meaning in theſe Words, <hi>viz.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:45301:4"/>
+               <hi>That all Clergy men, eſpecially the <hi>Eli<g ref="char:EOLhyphen"/>ſha's</hi> of them, thoſe Perſons that Nature and Heaven have ſo liberal<g ref="char:EOLhyphen"/>ly beſtowed their Favours upon, and loaded with Riches and Greatneſs, ought to be hoſpitable and charitable.</hi>
+            </p>
+            <p>I am now to preach to a mix'd Con<g ref="char:EOLhyphen"/>gregation, made up of Clergy-men and Laymen: My Text, <hi>Janus</hi> like, hath two Faces; the firſt reſpects you my Brethren of the Clergy, the other of the Laity.</p>
+            <p>To you my Brethren of the Clergy that are this Day come to honour me with your Company, I preach up Ho<g ref="char:EOLhyphen"/>ſpitality, not only from the Example of <hi>Eliſha,</hi> but from the Holy Word of God, which both commands and com<g ref="char:EOLhyphen"/>mends it to us.</p>
+            <p>To you of the Laity that are come with good and honeſt Hearts to hear my Doctrine, I preach up Juſtice, that you ſhould be ſo juſt in paying your Tythes, that you may be hoſpitably
+<pb n="8" facs="tcp:45301:5"/>
+and charitably received at your Mini<g ref="char:EOLhyphen"/>ſters Houſes; for if you withdraw their Dues, how can they perform their Du<g ref="char:EOLhyphen"/>ty? if you ſhut your Hands, how can they enlarge their Tables, and be given to Hoſpitality?</p>
+            <p>Now that Hoſpitality is a Duty in<g ref="char:EOLhyphen"/>joined on all Chriſtians, and conſe<g ref="char:EOLhyphen"/>quently on all the Preachers of that Do<g ref="char:EOLhyphen"/>ctrine, I'll prove by theſe three Argu<g ref="char:EOLhyphen"/>ments:
+<list>
+                  <item>1. From the Law of Nature.</item>
+                  <item>2. From the Scripture.</item>
+                  <item>3. From the Examples of good Men that encourage us to perform it.</item>
+               </list>
+            </p>
+            <p n="1">1. Then from the Law of Nature. They are not merely poſitive but natu<g ref="char:EOLhyphen"/>ral Laws that require us to be hoſpita<g ref="char:EOLhyphen"/>ble: theſe are Laws written in our Hearts and our Minds, which will di<g ref="char:EOLhyphen"/>rect us to them; they are the eaſy and unforced Suggeſtions of our Souls; and whoever he be that hath been but a lit<g ref="char:EOLhyphen"/>tle converſant with the Writings of the Heathens, will find that they practiſed this Duty, and that nothing was ſo de<g ref="char:EOLhyphen"/>teſtable
+<pb n="9" facs="tcp:45301:5"/>
+among them, as not to be civil to Strangers: <hi>Inhoſpitu littora populus barbarus,</hi> were Appellations of the worſt Sound in their Ears; and every little School-boy that had been but ſome time converſant with the claſſical Authors, will tell you how <hi>Homer</hi> brings in <hi>Ne<g ref="char:EOLhyphen"/>ſtor,</hi> importuning <hi>Minerva</hi> and <hi>Tela<g ref="char:EOLhyphen"/>maclus</hi> to ſtay with him: he tells them they leave him as if he had no Enter<g ref="char:EOLhyphen"/>tainment for them, or that he could not lodg them; but this he would ne<g ref="char:EOLhyphen"/>ver ſuffer ſo long as he kept a Servant.</p>
+            <p>The Grecians are obſerved by Hiſto<g ref="char:EOLhyphen"/>rians to have two Tables for Strangers; and the <hi>jus Hoſpitii</hi> was looked upon as a moſt ſacred thing. This ſhews what Hoſpitality they uſed, and what the Heathens themſelves thought of it in thoſe old times in which they lived. So that indeed could we not find a Bible in our Cloſets, neither had we the Will of God from Heaven revealed to us, yet the Light of Nature will dictate to us this Truth.</p>
+            <p>And indeed 'tis a piece of good Na<g ref="char:EOLhyphen"/>ture,
+<pb n="10" facs="tcp:45301:6"/>
+which ſo well becomes a Man, that it is called Humanity: and there<g ref="char:EOLhyphen"/>fore the Antients called our Kindneſs to Strangers by this name, <hi>Humanity</hi>; as if they then ſhew themſelves to have more of a Man in them than others, when they were kind to Strangers: and thoſe People that wanted this Generoſi<g ref="char:EOLhyphen"/>ty, were ever cenſured by them with this Expreſſion, to be barbarous and in<g ref="char:EOLhyphen"/>humane. They baniſhed inhoſpitable Men from the Society of Mankind, and ranked them among the Wolves and Tygers: They were not fit for the Company of Men, and therefore they ranked them among the worſer ſort of Beaſts.</p>
+            <p n="2">2. The Scripture. But beſides the Law written in our Hearts, the Laws that we have revealed to us from the God of Heaven, and written, as I may ſay, with the Finger of the Almighty, I mean the Holy Scriptures, give us full Proof of it.</p>
+            <p>How often in that Holy Book is Ho<g ref="char:EOLhyphen"/>ſpitality enjoined? how often incul<g ref="char:EOLhyphen"/>cated?
+<pb n="11" facs="tcp:45301:6"/>
+how much commended? and how ſeverely is the Neglect of it cenſu<g ref="char:EOLhyphen"/>red and puniſhed? as may be proved both out of the Old and New Teſtament.</p>
+            <p>If at your leiſure you turn over thoſe Sacred Leaves, you will find that the ancient People of God, the Jews, are in moſt plain Words commanded to uſe Strangers well, not to oppreſs them, no not to vex them, but to love them as themſelves, <hi>Exod.</hi> 22.21. Thou ſhalt do no Injury to Strangers. And alſo the ſame Duty is in the 9<hi>th</hi> Verſe of the following Chapter, preſſed again, and the Command is back'd with a forcible moving Reaſon, <hi>viz.</hi> why we ſhould be kind to them: and this was the Rea<g ref="char:EOLhyphen"/>ſon, becauſe they were Strangers in the Land of <hi>Egypt,</hi> and knew the Hearts of Strangers; they were put in mind of the Condition they were once in, and of the Uſage they wiſhed from the E<g ref="char:EOLhyphen"/>gyptians: And this Reaſoning ſuppoſes they would now deal with others as they once wiſhed they might be dealt withal themſelves. And the ſame Duty
+<pb n="12" facs="tcp:45301:7"/>
+is again injoined them; <hi>Lev.</hi> 19.34. <hi>And if the Stranger ſojourn with you,</hi> &amp;c.</p>
+            <p>Why now I pray is this Duty ſo of<g ref="char:EOLhyphen"/>ten inculcated? why are we ſo often reminded of it, but becauſe 'tis a Duty very neceſſary for all Men to put in practice? But from the Jews let us now go to the Chriſtians, and ſee how well they practiſed this Duty. And that you may not think this a legal Pre<g ref="char:EOLhyphen"/>cept, and aboliſhed in the time of the Goſpel, let us ſee what Proofs are to be met with in the New Teſtament; and in <hi>Rom</hi> 13.12. you will find it enjoin<g ref="char:EOLhyphen"/>ed the Chriſtians, and they are com<g ref="char:EOLhyphen"/>manded to uſe Hoſpitality: And in <hi>Heb.</hi> 13. they are cautioned not to for<g ref="char:EOLhyphen"/>get it; which ſuppoſes that Chriſtians are otherwiſe, both by Nature and for<g ref="char:EOLhyphen"/>mer Revelations, taught to do thus: And in <hi>Mat.</hi> 25. you will find the Pra<g ref="char:EOLhyphen"/>ctice of it is not only good and fit, but neceſſary and indiſpenſable; which may appear from the ſad Doom Chriſt paſs'd on them that neglected it, <hi>I was a Stranger, and ye took me not in.</hi> He
+<pb n="13" facs="tcp:45301:7"/>
+does not lay this to their Charge, that they were Whoremongers, Adulterers, Murderers, guilty of thoſe open Crimes which not only the Laws of God do threaten, but the Laws of Men puniſh with Death; but this was the chief Sin that was laid to their Charge, <hi>I was a Stranger and ye took me not in,</hi> that is, you were inhoſpitable.</p>
+            <p n="3">3. And as it is commanded us in the Scripture, ſo alſo is it recommended to our Practice from the Example of ſeve<g ref="char:EOLhyphen"/>ral eminent Perſons that have perform<g ref="char:EOLhyphen"/>ed it: ſo that we have both Precepts and Precedents to oblige us to it. Rules now are beſt learned when illuſtrated with Examples: the rich Store-houſe of the Scripture affords us Variety of In<g ref="char:EOLhyphen"/>ſtances both in the Old and New Teſta<g ref="char:EOLhyphen"/>ment; ſome few I will inſtance in.</p>
+            <p>In the Old Law we find it to be the Practice of <hi>Abraham</hi> and <hi>Lot,</hi> Men be<g ref="char:EOLhyphen"/>loved of God, and famous with us; for they were not only honoured while they lived, but are renowned among us to all Poſterity: And in <hi>Gen.</hi> 18.1,
+<pb n="14" facs="tcp:45301:8"/>
+2, 3, 4. we may find <hi>Abraham</hi>'s Hoſpi<g ref="char:EOLhyphen"/>tality recorded, what he did, and with what Heartineſs, Alacrity and Dili<g ref="char:EOLhyphen"/>gence he entertain'd them, how free he was in it; they asked not him, but he them: this was a Carriage that be<g ref="char:EOLhyphen"/>came the hearty Goodneſs of thoſe old times; and it was a Work worthy of and ſutable to the great Faith of that excellent Man. And alſo in the begin<g ref="char:EOLhyphen"/>ning of <hi>Chap.</hi> 19. we have <hi>Lot</hi>'s Hoſpi<g ref="char:EOLhyphen"/>tality recorded; he ſaw two Strangers, he went to meet them, bowed himſelf with his Face to the Ground, addreſſed himſelf to them with all the moſt ob<g ref="char:EOLhyphen"/>liging Civility; he would not be deni<g ref="char:EOLhyphen"/>ed: but when they ſaid they would tarry in the Street all Night, he forced them into his Houſe, entertained them bountifully, and made a Feaſt for them. But was this his Kindneſs unreward<g ref="char:EOLhyphen"/>ed? how did they gratify their Hoſt? why, the ſame Chapter tells you how they ſaved his Life, and reſcued him and his Family from thoſe fiery Show<g ref="char:EOLhyphen"/>ers, fatal to the reſt of the Inhabitants.
+<pb n="15" facs="tcp:45301:8"/>
+And as for his Brother <hi>Abraham,</hi> they ſo greatly requited his Hoſpitality, that they gave him the News of a Son in his old Age; and alſo ſuch a Son in whom all the Nations of the Earth ſhould be bleſſed.</p>
+            <p>We alſo find it upon Record in the New Teſtament, in <hi>Acts</hi> 28. that <hi>Pub<g ref="char:EOLhyphen"/>lius</hi> entertained <hi>Paul</hi> three Days courte<g ref="char:EOLhyphen"/>ouſly; and in Requital he healed his Father-in-law of a Fever: And <hi>Oneſi<g ref="char:EOLhyphen"/>phorus</hi> having once or twice refreſhed <hi>Paul</hi> at his Table, he remembred him in his Prayers, and publickly acknow<g ref="char:EOLhyphen"/>ledged his Hoſpitality in his Epiſtles.</p>
+            <p>But now to inſtance in an Example above all Examples, whoſe Example if we follow not we can never go to Hea<g ref="char:EOLhyphen"/>ven, you may read <hi>Deut.</hi> 10.18. God himſelf is ſaid to love the Stranger, and to give him Food and Raiment: but we have a far greater Proof of God's Love to Strangers than theſe; for us Gentiles that were Foreigners hath he viſited with his Salvation: To us that had a long time ſat in Darkneſs, and in
+<pb n="16" facs="tcp:45301:9"/>
+the Shadow of Death, hath he given a Light; he hath given to us his Son, and treated us with all the Expreſſions of Kindneſs imaginable.</p>
+            <p>Now if this Duty be enjoined us in the Scripture; if it hath been the Pra<g ref="char:EOLhyphen"/>ctice of the beſt Men that ever lived; nay, if it hath been the Practice of God himſelf, let us then be hoſpitable, that we may be like unto God.</p>
+            <p>And indeed as you ought to be hoſpi<g ref="char:EOLhyphen"/>table to Strangers, ſo ought you to be charitable to the Poor: we have an ex<g ref="char:EOLhyphen"/>preſs Mandate for it in <hi>Luke</hi> 14.13, 14. <hi>When thou makeſt a Feaſt, call the Poor, the Maimed and the Lame, and thou ſhalt be bleſſed,</hi> &amp;c.</p>
+            <p>And it may well deſerve our Obſer<g ref="char:EOLhyphen"/>vation to conſider the great Care God took of the Poor in the Moſaic Law; for beſides what was given privately, God made ſeveral Laws for the publick and viſible Relief of them.</p>
+            <p>When God Almighty had bleſſed them with Encreaſe, and they came to reap their Harveſt, they were com<g ref="char:EOLhyphen"/>manded
+<pb n="17" facs="tcp:45301:9"/>
+to leave ſome uncut for the Be<g ref="char:EOLhyphen"/>nefit of the Poor, <hi>Lev.</hi> 19.9. And be<g ref="char:EOLhyphen"/>ſides every Year's Tything they had the third Year's Tythe, which by God's Law was their due; and not only the third Year, but the ſeventh Year the Land was to lie ſtill, and they were to ſhare in common the Fruits of it.</p>
+            <p>Neither did the Primitive Chriſtians fall ſhort of the Jews in their Charity, witneſs that ancient and primitive In<g ref="char:EOLhyphen"/>ſtitution of the Offertory in the Sacra<g ref="char:EOLhyphen"/>ment, which was ſo conſiderable a part of it, that it gave Denomination to the whole: and this I have read to be one reaſon why 'tis called the Communion-Service, becauſe every Sunday the Pri<g ref="char:EOLhyphen"/>mitive Chriſtians did communicate to the Neceſſities of others.</p>
+            <p>Nay, we may learn this Duty from the very Heathens themſelves, for they had a Temple in <hi>Athens,</hi> and it was de<g ref="char:EOLhyphen"/>dicated to charitable Uſes: and it was the greateſt Reproach among them, to upbraid one with this, that they had never been at the Temple of Mercy.</p>
+            <p>
+               <pb n="18" facs="tcp:45301:10"/>And what greater Reproach can it be to a Chriſtian than to be churliſh and unmerciful. We read in the Moſaick Law, that the Shell-fiſh was accounted unclean; this I take to be one Reaſon, becauſe the Meat was encloſed in the Shell, and it was hard to come by. They indeed are to be reckoned among the Unclean, <hi>viz.</hi> among the Wicked and Ungodly, that incloſe their Eſtate with<g ref="char:EOLhyphen"/>in the Shell of their Cabinet, denying o<g ref="char:EOLhyphen"/>thers the Benefit of it; that, Hedg-hog like, wraps up himſelf in a Bed of Down, and throws out his Prickles to all the World beſides. But beſides the Command of God, and the Example of good Men, common Gratitude may oblige us to this Duty; we are all born Beggars, and live upon Alms, and all the Creatures do liberally contribute to our Neceſſities; the Sun hath not his Light for himſelf, but enriches the Earth with his golden Beams: The Earth brings forth a fruitful Crop; one Creature gives us Wool, another Silk; nay, all the Creatures, in ſome ſort, ad<g ref="char:EOLhyphen"/>miniſter
+<pb n="19" facs="tcp:45301:10"/>
+to Man's Neceſſities: and now ſhall every Creature be good to Man, and ſhall Man himſelf be inhu<g ref="char:EOLhyphen"/>man to his Neighbour?</p>
+            <p>But beſide common Gratitude, our own Intereſt may oblige us to this Du<g ref="char:EOLhyphen"/>ty; 'tis the beſt Money we can lay out, and brings to the Donor the greateſt Advantage: <hi>He that giveth to the Poor, lendeth to the Lord,</hi> who gives double Intereſt for the Money, and rewards us with temporal and eternal Bleſſings.</p>
+            <p>It was the Counſel of him that was the wiſeſt Man that ever the Univerſe yet bore, (our Saviour Chriſt excepted, who was both God and Man) <hi>Caſt thy Bread upon the Waters, and thou ſhalt find it after many Days.</hi> The word is not <hi>da,</hi> give, but <hi>mitte,</hi> ſend; like a Perſon that ſends an Adventure to Sea, 'tis loſt for the preſent, but yet he hopes it will one Day turn to a great Advantage.</p>
+            <p>Give me leave to ſuperadd one Mo<g ref="char:EOLhyphen"/>tive more: As Charity procures Bleſ<g ref="char:EOLhyphen"/>ſings, ſo alſo doth it divert thoſe Judg<g ref="char:EOLhyphen"/>ments
+<pb n="20" facs="tcp:45301:11"/>
+that hang over our Heads. When <hi>Nebuchadnezzar</hi> for his Pride had a Vi<g ref="char:EOLhyphen"/>ſion, that God would take away his Kingdom, he conſulted with <hi>Daniel</hi> what to do; and his Counſel to him was this, <hi>Break off your Sins by Righte<g ref="char:EOLhyphen"/>ouſneſs, and your Iniquities by doing good to the Poor:</hi> as if his Alms could di<g ref="char:EOLhyphen"/>vert thoſe Judgments that hanged over his Head, and the practice of theſe could waſh away his Offences; and, like Celeſtial Fuller's Earth, take the Spots of the Fleſh from the Soul. We find it therefore ranked with Righte<g ref="char:EOLhyphen"/>ouſneſs in the Scripture, and they are promiſcuouſly uſed one for the other. And this put <hi>Job</hi> into ſuch an Amaze<g ref="char:EOLhyphen"/>ment, that his Afflictions ſhould befal him when he had been ſo merciful to the Poor. And indeed though the Poor be counted a Burden to many of us, yet among the Jews they were reckoned a<g ref="char:EOLhyphen"/>mong their greateſt Bleſſings. And this we find to be one of God's Promiſes to them, that the Poor ſhall be always among them, that ſo they might know
+<pb n="21" facs="tcp:45301:11"/>
+what to do with their Wealth. Now that you may diſpoſe of your Alms to the beſt Advantage, take along with you theſe following Rules.</p>
+            <p n="1">1. <hi>De noſtris dandum.</hi> When <hi>Seli<g ref="char:EOLhyphen"/>mas</hi> the great Turk lay on his Death-bed, being moved by <hi>Pirrhus</hi> to beſtow that Wealth that he had wronged the Perſian Merchants of, upon charitable Uſes, he made this honeſt Reply, Nay rather, ſaith he, let it be ſent back to the right Owners. And ſhall not a Chriſtian's Creed be much better than a Turk's Alcoran? 'Tis a Will not pleaſing to God, nor yet good Men, when a Perſon on his Death-bed be<g ref="char:EOLhyphen"/>queaths his Soul to God, and his ill-gotten Goods to the Poor. Neither can he be thought charitable that robs perhaps an hundred Families to build an Hoſpital for ſeven Droans.</p>
+            <p n="2">2. The ſecond Rule is this; What you give muſt be done with a good In<g ref="char:EOLhyphen"/>tention. I have read of a Traitor, who being hired to imbrue his Hands in Royal Blood, made his Attempt on the
+<pb n="22" facs="tcp:45301:12"/>
+Royal Perſon, but by Accident only cut off a Wen, which the Skill of the ableſt Chirurgion durſt not venture; ſo that inſtead of killing, he cures his Enemy. Now whether the accidental Good he did could compound for the Wickedneſs of his intended Treaſon, I leave it to any ſober Perſon to judg.</p>
+            <p n="3">3. The third Rule is this; Give as you are able: 'Tis not always neceſſa<g ref="char:EOLhyphen"/>ry that Alms ſhould come out of a Sack; a Man may be charitable though he hath not an expanding Plenty. A lit<g ref="char:EOLhyphen"/>tle Purſe contained that Mite which was the greateſt Gift in the Treaſury, I mean the poor Widow's Gift, which was acceptable to God, becauſe coming from her who wanted it her ſelf. But ſhould the rich Man take his Meaſures from hence, and give no more than ſhe did, he would come as far ſhort of her Charity, as ſhe did of his Wealth.</p>
+            <p>I am now come to addreſs my ſelf to the Laity; and to you do I recommend a juſt and great Care of paying what<g ref="char:EOLhyphen"/>ſoever
+<pb n="23" facs="tcp:45301:12"/>
+the Laws of the Land have made the Dues of your Miniſters, and by no means to look with an evil Eye upon what is allotted them as an Encourage<g ref="char:EOLhyphen"/>ment to diſcharge their Office. When St. <hi>Paul</hi> makes it the Qualification of a Biſhop, that he ſhould be given to Ho<g ref="char:EOLhyphen"/>ſpitality, (1 <hi>Tim.</hi> 3.2.) you may be ſure that he did not, like the Egyptian Tyrant, enjoin them to make Brick without Straw. He did not deſign they ſhould build Caſtles in the Air, and feed their Gueſts with thin Notions and Speculations only. And without a Supply of theſe earthly things, it was not poſſible they ſhould ſet more than a Chymerical Table before them, as the Enchanter did before his Royal Gueſts: no, he tells you, that no Man goeth to Warfare at his own Coſt; and he that plants a Vineyard, eats of the Fruit of it; and he that keeps a Flock, is maintained with the Profit of it. From whence he argues the Equity of Miniſters being liberally ſupplied by them in Temporals, whoſe ſpiritual
+<pb n="24" facs="tcp:45301:13"/>
+Good they have devoted themſelves and their Labours to: and therefore, in pur<g ref="char:EOLhyphen"/>ſuance of the ſame thing, he adds, that he ſpake not theſe things as a Man, as one that had Reaſon, and might argue from thence for it, but he had the In<g ref="char:EOLhyphen"/>ſtitution and Command of God to back him herein; <hi>Say I theſe things as a Man? or ſaith not the Law the ſame alſo?</hi> 1 <hi>Cor.</hi> 9.8. For it was written in the Law of <hi>Moſes, Thou ſhalt not muzzle the Mouth of the Ox that treadeth out the Corn.</hi> Doth God take care for Oxen, or ſaith it altogether for our ſakes? Was the Precept given in regard to the Beaſts alone, or rather had it not far<g ref="char:EOLhyphen"/>ther Reference to his Servants the Prieſts and Levites, who prepared ſpi<g ref="char:EOLhyphen"/>ritual Food for the People? For our ſakes no doubt he ſpake it, that <hi>he that plows ſhould plow in Hope; and he that threſh<g ref="char:EOLhyphen"/>eth in Hope, ſhould be Partaker of the ſame Hope.</hi>
+            </p>
+            <p>Nay he proceeds further, and ſhews how mean a Recompence this is for the mighty Advantages we bring to the
+<pb n="25" facs="tcp:45301:13"/>
+World, the immortal Glories and Hap<g ref="char:EOLhyphen"/>pineſs that we, as Heralds, proclaim, purchaſed by our great Maſter the bleſſed Jeſus for you: If we have ſown unto you ſpiritual things, is it a great Matter if we reap your carnal things? If we teach how to live and be happy for ever, is it ſuch a wonderful thing that you contribute towards our living, and being eaſy for a time here? Do you not know that they which miniſter a<g ref="char:EOLhyphen"/>bout holy things, live of the things of the Temple, are maintained by the Of<g ref="char:EOLhyphen"/>ferings and Oblations that are made there?</p>
+            <p>You know little of the Conſtitution among the Jews, if you think any o<g ref="char:EOLhyphen"/>pened or ſhut a Door in the Temple for nought, <hi>Mal.</hi> 1.10. and if all the inferior Officers had fair Allotments in propor<g ref="char:EOLhyphen"/>tion, much more they who attended at the Altar were Partakers with the Al<g ref="char:EOLhyphen"/>tar, ſhared in all the Gifts and Offer<g ref="char:EOLhyphen"/>ings which were brought thither. But why do I go about to light the Sun with a Taper, and prove that to you by Rea<g ref="char:EOLhyphen"/>ſon,
+<pb n="26" facs="tcp:45301:14"/>
+which is ſo manifeſt by the Word of God? Perhaps my Sermon may make no Impreſſion on your Hearts, becauſe they are the Words of a mortal Man; behold, I will turn you to the Words of the ever-living God: I am a frail Man, and may err, but God is a God of Truth that cannot lie, nor alter the thing that is gone out of his Lips; hear then what he ſays by his Prophet <hi>Malachy,</hi> ch. 3.8, 9, 10. <hi>Will a Man rob God? yet ye have robbed me: but ye ſay, Wherein have we robbed thee? In Tythes and Offerings. Ye are curſed with a Curſe: for ye have robbed me, even this whole Nation. Bring ye my Tythes into my Houſe, and prove me, whether I will not open the Windows of Heaven, and pour out a Bleſſing,</hi> &amp;c. In which Words we may obſerve, 1<hi>ſt.</hi> Their Sin, they robbed God. 2<hi>dly.</hi> Their Puniſhment, they are curſed. 3<hi>dly.</hi> The Means to divert this Judgment, <hi>viz.</hi> to bring the full Tythes.</p>
+            <p>
+               <hi>Will a Man rob God?</hi> 'Tis an horri<g ref="char:EOLhyphen"/>ble Wickedneſs to rob and diſpoil our
+<pb n="27" facs="tcp:45301:14"/>
+Parents or Maſters, to raviſh their Goods and Maintenance from them; but to rob our God is a Wickedneſs much more flagitious, a Sin ſo mon<g ref="char:EOLhyphen"/>ſtrous, that the Jews, though then ve<g ref="char:EOLhyphen"/>ry much degenerated and corrupted, ſtartled at the mention of, <hi>Ye have robbed me: but they ſay, Wherein have we rob<g ref="char:EOLhyphen"/>bed thee? In Tythes and Offerings.</hi> For God, the great Donor of all, had re<g ref="char:EOLhyphen"/>ſerved theſe to himſelf, which he gave to his Prieſts for their Service in his Worſhip; and with-holding theſe, they robbed him. Hear then the Judgment that he denounced againſt them, <hi>Ye are curſed with a Curſe.</hi> 'Tis bad to be curſed by Man: <hi>Eliſhah</hi>'s Curſe proved fatal to the Children bred up in Idolatry, that called him <hi>Bald Pate.</hi> Now if the Curſe of Man prove ſo fatal, what is the Curſe of God? But now what was there to redeem them from this Curſe? mark in the following Verſe, <hi>Bring all the Tythes into the Store-houſe, that there may be Meat in my Houſe.</hi> A mighty Encouragement not only for them, but
+<pb n="28" facs="tcp:45301:15"/>
+for all ſucceeding Generations, to have a Regard for things ſacred.</p>
+            <p>But now to draw to a Concluſion; Give me leave to make this ſhort Ad<g ref="char:EOLhyphen"/>dreſs to my Brethren of the Clergy, not to inſtruct them in their Duty, but to ſpeak their own Thoughts in my plain Words.</p>
+            <p>If the Laity be juſt to us, let not us be unjuſt to our Maſter, but let us give according as we are able, to the Ne<g ref="char:EOLhyphen"/>ceſſity of the Poor. Remember the Le<g ref="char:EOLhyphen"/>vites were the leaſt of all the Tribes, yet their Privileges and Revenues were greater than any other of the Tribes, for they had not only the Tenth of all the Fruits of the Land, but a ſhare in all the Peace-Offerings and Free-will-Offerings of the People in their re<g ref="char:EOLhyphen"/>demption of ſeveral things ſacred to God, (as the Firſt-born) beſides the many Cities and Lands which were ſet a-part in every Tribe for them, with numberleſs other things that belonged to them. Nay, as I learned once by the Conference of an eminent Divine of the
+<pb n="29" facs="tcp:45301:15"/>
+Church of <hi>England,</hi> they had near the ſixth Part of the Revenue of the Nati<g ref="char:EOLhyphen"/>on allotted to them.</p>
+            <p>But now why, I pray, were their Privileges and Revenues greater than any of the other Tribes? Why this I take to be the Reaſon, becauſe they were not only Prieſts, but Almo<g ref="char:EOLhyphen"/>ners to the other Tribes; and their Houſes were as Hoſpitals to the Poor.</p>
+            <p>Let us therefore, as the Apoſtles ad<g ref="char:EOLhyphen"/>viſe us, be given to Hoſpitality; and following the Example of this great Prophet in time of Dearth and Famine, <hi>Set on the Great Pot, and ſeethe Pot<g ref="char:EOLhyphen"/>tage</hi> for our poor Brethren that are in Diſtreſs.</p>
+            <p>I ſhall now conclude with this ear<g ref="char:EOLhyphen"/>neſt Prayer, That you may never want Clergy, Learned Perſons, and Ortho<g ref="char:EOLhyphen"/>dox and diligent Workmen, that need not be aſhamed, daily dividing the Word of Truth; and, like good Stew<g ref="char:EOLhyphen"/>ards, breaking the Bread of Life, and diſtributing to each, in their Families, ſutable to their Needs and Capacities;
+<pb n="30" facs="tcp:45301:16"/>
+and by an holy Life may powerfully lead, as well as by ſound Doctrine ſafe<g ref="char:EOLhyphen"/>ly guide them to Heaven.</p>
+            <p>And I do further pray, That theſe may never want a People teachable and obedient, who may receive them as the Angels of God, the Ambaſſa<g ref="char:EOLhyphen"/>dors of Chriſt, and the Glory of the Churches; and then there is no doubt but they will meet with not only their legal Dues, but many grateful Re<g ref="char:EOLhyphen"/>turns for their abundant Labours, re<g ref="char:EOLhyphen"/>verencing their Perſons, conſulting their Reputations, contriving for their decent and becoming Support and Maintenance; in a word, eſteeming them and theirs highly for their Works ſake. This would make our Country a Land of Delight indeed, the Glory of all Places, a little Reſemblance and Figure of Heaven, where Knowledg, Righteouſneſs, Love and Unity, with all other Graces and Vertues, would flouriſh and abound, to the Praiſe of him who has called us out of Dark<g ref="char:EOLhyphen"/>neſs to his infinite Light: which God
+<pb n="31" facs="tcp:45301:16"/>
+of his infinite Goodneſs grant, for the ſake of his dear Son and our Saviour Chriſt Jeſus the Righteous, to whom with the Father and Eternal Spirit be aſcribed all Praiſe, Might, Majeſty and Dominion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
